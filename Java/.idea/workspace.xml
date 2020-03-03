@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0847399d-f4db-4e74-a15c-f9d4fdc88730" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YWmgwkze4QqxBTavMKbpSWbohB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.android">
+    <configuration name="Clients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clients" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="android" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.android" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Clients" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0847399d-f4db-4e74-a15c-f9d4fdc88730" name="Default Changelist" comment="" />
+      <created>1583066839571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583066839571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2195" y="22" key="#Project_Structure" timestamp="1583066936165">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2195" y="22" key="#Project_Structure/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583066936165" />
+    <state x="2057" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583066881110">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2057" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583066881110" />
+    <state x="2331" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583089716243">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2331" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583089716243" />
+    <state x="2383" y="119" key="FileChooserDialogImpl" timestamp="1583067436214">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2383" y="119" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583067436214" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583100889625">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583100889625" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583100889625">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583100889625" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583100889625">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583100889625" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583100889625">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583100889625" />
+    <state x="2083" y="0" key="SettingsEditor" timestamp="1583067452502">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2083" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583067452502" />
+    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583089077501">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2299" y="188" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1583089077501" />
+  </component>
+</project>
