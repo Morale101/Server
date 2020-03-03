@@ -1,0 +1,3 @@
+conda create --name impulse  python=3.6 -y
+pip install tensorflow==1.13.2 numpy tflearn nltk 
+pip install sklearn Librosa
